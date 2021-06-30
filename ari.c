@@ -38,67 +38,67 @@ string ari(string str)
 
         case 2 : 
         {
-            return "First/Second grade";
+            return "First/Second Grade";
             break;
         }
 
         case 3 : 
         {
-            return "Third grade";
+            return "Third Grade";
             break;
         }
 
         case 4 : 
         {
-            return "Fourth grade";
+            return "Fourth Grade";
             break;
         }
 
         case 5 : 
         {
-            return "Fifth grade";
+            return "Fifth Grade";
             break;
         }
 
         case 6 : 
         {
-            return "Sixth grade";
+            return "Sixth Grade";
             break;
         }
 
         case 7 : 
         {
-            return "Seventh grade";
+            return "Seventh Grade";
             break;
         }
 
         case 8 : 
         {
-            return "Eighth grade";
+            return "Eighth Grade";
             break;
         }
 
         case 9 : 
         {
-            return "Ninth grade";
+            return "Ninth Grade";
             break;
         }
 
         case 10 : 
         {
-            return "Tenth grade";
+            return "Tenth Grade";
             break;
         }
 
         case 11 : 
         {
-            return "Eleventh grade";
+            return "Eleventh Grade";
             break;
         }
 
         case 12 : 
         {
-            return "Twelfth grade";
+            return "Twelfth Grade";
             break;
         }
 
